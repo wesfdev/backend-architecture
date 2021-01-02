@@ -1,4 +1,4 @@
-# Titulo: Template de documento de diseño
+# Titulo: Sistema de Reviews
 ---
 ## Overview: Problema a resolver
  La empresa "RandomCameraReviews" necesita un sistema que permita que fotografos profesionales suban "reviews" de Camaras fotograficas, para que cualquier persona desde cualquier parte del mundo pueda buscar los los reviews y comprarlas a travez de su portal.
