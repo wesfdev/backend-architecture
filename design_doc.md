@@ -37,9 +37,9 @@ Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
 ---
 ## Limitaciones
 Lista de limitaciones conocidas. Puede ser en formato de lista.
-Ej.
-* Llamadas del API tienen latencia X
+* Llamadas del API que permiten subir un review, no exceden los limites de latencia de 500ms.
 * No se soporta mas de X llamadas por segundo
+* Llamdas al API que permite obtener los review para lectura, deben de tener una latencia menor a 100ms.
 ---
 ## Costo
 Descripción/Análisis de costos
